@@ -1,2 +1,2 @@
 # hello-world
-First repository in Git
+Siva created first repository in Git and created hello world as a sample program.
